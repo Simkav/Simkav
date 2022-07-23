@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Ivan
-#### I am JavaScript Developer
+#### I am Backend JavaScript Developer
 
-Skills: NODE / REACT / JS / HTML / CSS
+Skills: Javascript / Node.js / Express.js / Nest.js
 
 - 🌱 I’m currently learning backend stuff 
 - 📫 How to reach me: simkav2411@gmail.com 
